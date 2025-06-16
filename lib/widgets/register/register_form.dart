@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:ride_share/widgets/register/register_confirm_password_field.dart';
-import 'package:ride_share/widgets/register/register_password_field.dart';
+import 'package:emk/widgets/register/register_confirm_password_field.dart';
+import 'package:emk/widgets/register/register_password_field.dart';
 
 class RegisterForm extends StatelessWidget {
   @override

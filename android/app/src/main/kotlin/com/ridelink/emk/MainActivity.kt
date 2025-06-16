@@ -1,4 +1,4 @@
-package com.example.ride_share
+package com.ridelink.emk
 
 import io.flutter.embedding.android.FlutterActivity
 

@@ -1,14 +1,24 @@
 import 'package:flutter/material.dart';
-import 'package:ride_share/screens/history_screen.dart';
-import 'package:ride_share/screens/login_screen.dart';
-import 'package:ride_share/screens/post_route_screen2.dart';
-import 'package:ride_share/screens/post_route_screen3.dart';
-import 'package:ride_share/screens/profile_screen.dart';
-import 'package:ride_share/screens/register_screen.dart';
-import 'package:ride_share/screens/routes_drivers_screen.dart';
-import 'package:ride_share/screens/routes_passengers_screen.dart';
-import 'package:ride_share/screens/post_route_screen1.dart';
-import 'package:ride_share/screens/welcome_screen.dart';
+// <<<<<<< adding-google-auth
+// import 'package:emk/screens/history_screen.dart';
+// import 'package:emk/screens/login_screen.dart';
+// import 'package:emk/screens/profile_screen.dart';
+// import 'package:emk/screens/register_screen.dart';
+// import 'package:emk/screens/routes_drivers_screen.dart';
+// import 'package:emk/screens/routes_passengers_screen.dart';
+// import 'package:emk/screens/welcome_screen.dart';
+// =======
+// import 'package:ride_share/screens/history_screen.dart';
+// import 'package:ride_share/screens/login_screen.dart';
+// import 'package:ride_share/screens/post_route_screen2.dart';
+// import 'package:ride_share/screens/post_route_screen3.dart';
+// import 'package:ride_share/screens/profile_screen.dart';
+// import 'package:ride_share/screens/register_screen.dart';
+// import 'package:ride_share/screens/routes_drivers_screen.dart';
+// import 'package:ride_share/screens/routes_passengers_screen.dart';
+// import 'package:ride_share/screens/post_route_screen1.dart';
+// import 'package:ride_share/screens/welcome_screen.dart';
+// >>>>>>> main
 
 // Import your new screens
 import 'package:ride_share/screens/new_route_screen1.dart';
